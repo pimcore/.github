@@ -33,10 +33,7 @@ Pimcore is an innovative, free, and open-source platform for managing digital da
 
 ## Contributing to Pimcore
 
-As an open-source project, Pimcore thrives on community contributions. Whether you're improving documentation, submitting bug fixes, or proposing new features, your contributions are welcome. Interested in contributing? 
-
-**Bug fixes:** please create a pull request including a step by step description to reproduce the problem  
-**Contribute features:** contact the core-team on our [Gitter channel](https://gitter.im/pimcore/pimcore) before you start developing
+As an open-source project, Pimcore thrives on community contributions. Whether you're improving documentation, submitting bug fixes, or proposing new features, your contributions are welcome. Interested in contributing? Please check out our [contributing guide](https://github.com/pimcore/pimcore/blob/11.x/CONTRIBUTING.md)
 
 ## Reporting Security Incidents
 
