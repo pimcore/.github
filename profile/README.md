@@ -3,14 +3,29 @@
 
 # Pimcore - Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce
 
-- 📢 **[We are hiring!](https://pimcore.com/en/careers?utm_source=github&utm_medium=readme-pimcore-pimcore&utm_campaign=careers)** - Join us on our mission!
-- 🌍 [Website](https://pimcore.com/) - Learn more about Pimcore
-- 📖 [Documentation](https://pimcore.com/docs/)
-- 🉐 **Help translate Pimcore!** Start with [Essentials](https://poeditor.com/join/project/VWmZyvFVMH), continue with [Extended](https://poeditor.com/join/project/XliCYYgILb)
-- 👍 Like us on [Facebook](https://www.facebook.com/pimcore), follow us on [LinkedIn](https://www.linkedin.com/company/3505853/) and [Twitter](https://twitter.com/pimcore)
-- 🐞 [Issue Tracker](https://github.com/pimcore/pimcore/issues) - Report bugs or suggest new features
-- 🗨 [Forums](https://github.com/pimcore/pimcore/discussions) - Community support and discussions
-- 👪 [Community Chat](https://gitter.im/pimcore/pimcore) - Gitter  
+<p align="center">
+  <a href="https://pimcore.com/en/careers?utm_source=github&utm_medium=readme-pimcore-pimcore&utm_campaign=careers">We are hiring! 📢 Join us on our mission!</a>
+  ·
+  <a href="https://pimcore.com/">🌍 Learn more about Pimcore!</a>
+  ·
+  <a href="https://pimcore.com/docs/">📖 Documentation</a>
+</p>
+<p align="center">
+  <a href="https://poeditor.com/join/project/VWmZyvFVMH">🉐 Help translate Pimcore!</a>
+  ·
+  <a href="https://github.com/pimcore/pimcore/issues">🐞 Issue Tracker</a>
+  ·
+  <a href="https://github.com/pimcore/pimcore/discussions">🗨 Forums</a>
+  .
+  <a href="https://gitter.im/pimcore/pimcore">👪 Community Chat</a>
+  </p>
+  <p align="center">
+  <a href="https://www.facebook.com/pimcore">👍 Like us on Facebook</a>
+  ·
+  <a href="https://www.linkedin.com/company/3505853/">Follow on LinkedIn</a>
+  ·
+  <a href="https://twitter.com/pimcore">Follow on Twitter</a>
+  </p>
 
 ## Welcome to Pimcore
 
@@ -29,6 +44,6 @@ For security-related issues, please see our [security policy](https://github.com
 
 ## Copyright and License
 
-Copyright:  [Pimcore](https://www.pimcore.org/)  GmbH For licensing details please visit  [LICENSE.md](https://github.com/pimcore/pimcore/blob/11.x/LICENSE.md)
+Copyright:  [Pimcore](https://www.pimcore.com/)  GmbH For licensing details please visit  [LICENSE.md](https://github.com/pimcore/pimcore/blob/11.x/LICENSE.md)
 
 ---
