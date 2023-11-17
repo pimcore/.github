@@ -1,5 +1,5 @@
 
-![Pimcore - Own the digital World](./../img/logo-readme.svg)
+![Pimcore - Own the digital World](https://raw.githubusercontent.com/pimcore/pimcore/74c15378aa58f6ee4b7e667f94cbe992b24ccfa7/doc/img/logo-readme.svg)
 
 # Pimcore - Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce
 
