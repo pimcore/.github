@@ -14,7 +14,7 @@
 
 ## Welcome to Pimcore
 
-Pimcore is an innovative, free, and open-source platform for managing digital data and customer experiences. It provides an integrated solution for Product Information Management (PIM), Digital Asset Management (DAM), Customer Data Platform (CDP), and eCommerce.
+Pimcore is an innovative, free, and open-source platform for managing digital data and customer experiences. It provides an integrated solution for Product Information Management (PIM), Digital Asset Management (DAM), Customer Data Platform (CDP), Master Data Management (MDM), DXP/CMS and eCommerce.
 
 ## Contributing to Pimcore
 
@@ -26,16 +26,6 @@ As an open-source project, Pimcore thrives on community contributions. Whether y
 ## Reporting Security Incidents
 
 For security-related issues, please see our [security policy](https://github.com/pimcore/pimcore/security/policy). 
-
-## Get Started with Pimcore
-
-- **Documentation**: Find comprehensive guides and documentation to help you start working with Pimcore as quickly as possible. [Start learning](https://pimcore.com/docs/)
-- **Community Support**: Join our community chat channels for support and discussions. [Join the community on Gitter](https://gitter.im/pimcore/pimcore).
-
-## Stay Connected
-
-- **Blog**: Stay updated with the latest news and updates from Pimcore. [Read our blog] (https://pimcore.com/en/resources/blog).
-- **Social Media**: 👍 Like us on [Facebook](https://www.facebook.com/pimcore), follow us on [LinkedIn](https://www.linkedin.com/company/3505853/) and [Twitter](https://twitter.com/pimcore)
 
 ## Copyright and License
 
