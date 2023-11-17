@@ -22,7 +22,7 @@
   <p align="center">
   <a href="https://www.facebook.com/pimcore">👍 Like us on Facebook</a>
   ·
-  <a href="https://www.linkedin.com/company/3505853/">Follow on LinkedIn</a>
+  <a href="https://www.linkedin.com/company/pimcore">Follow on LinkedIn</a>
   ·
   <a href="https://twitter.com/pimcore">Follow on Twitter</a>
   </p>
