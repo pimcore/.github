@@ -1,5 +1,5 @@
 
-![Pimcore - Own the digital World](https://raw.githubusercontent.com/pimcore/pimcore/74c15378aa58f6ee4b7e667f94cbe992b24ccfa7/doc/img/logo-readme.svg)
+![Pimcore - Own the digital World]("")
 
 # Pimcore - Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce
 
@@ -34,6 +34,12 @@ Pimcore is an innovative, free, and open-source platform for managing digital da
 ## Contributing to Pimcore
 
 As an open-source project, Pimcore thrives on community contributions. Whether you're improving documentation, submitting bug fixes, or proposing new features, your contributions are welcome. Interested in contributing? Please check out our [contributing guide](https://github.com/pimcore/pimcore/blob/11.x/CONTRIBUTING.md)
+
+## What is the [Pimcore Enterprise Edition?](https://pimcore.com/en/platform/enterprise-edition)
+
+Enterprise Edition allows for complete flexibility regarding customization, including managing it in your preferred infrastructure.
+Depending on your business challenges, we offer you the perfect solution – including our extensive enterprise features and support services. Definitely the right approach for any organization that wants to get the most out of Pimcore!
+Check out our [version offerings](https://pimcore.com/en/platform/enterprise-edition)
 
 ## Reporting Security Incidents
 
