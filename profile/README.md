@@ -11,9 +11,7 @@
   <a href="https://pimcore.com/docs/">📖 Documentation</a>
 </p>
 <p align="center">
-  <a href="https://poeditor.com/join/project/VWmZyvFVMH">🉐 Help translate Pimcore!</a>
-  ·
-  <a href="https://github.com/pimcore/pimcore/issues">🐞 Issue Tracker</a>
+  <a href="https://pimcore.com/en/platform/enterprise-edition">🚀 Pimcore Enterprise edition</a>
   ·
   <a href="https://github.com/pimcore/pimcore/discussions">🗨 Forums</a>
   .
