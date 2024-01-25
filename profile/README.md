@@ -1,7 +1,8 @@
-![Pimcore Inspire 2024 - A Must-Attend Conference for Pimcore Developers!](/img/inspire-2024.png)
-
-
-  
+[![Pimcore Inspire 2024 - A Must-Attend Conference for Pimcore Developers!](/img/inspire-2024.png)](https://pimcore.com/en/resources/events/inspire-2024)
+    
+    
+    
+    
 ![Pimcore - Own the digital World](/img/logo-readme.svg)
 
 # Pimcore - Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce
