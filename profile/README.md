@@ -52,6 +52,6 @@ For security-related issues, please see our [security policy](https://github.com
 
 ## Copyright and License
 
-Copyright:  [Pimcore](https://www.pimcore.com/)  GmbH For licensing details please visit  [LICENSE.md](https://github.com/pimcore/pimcore/blob/11.x/LICENSE.md)
+Copyright:  [Pimcore](https://www.pimcore.com/)  GmbH For licensing details please visit  [LICENSE.md](LICENSE.md)
 
 ---
