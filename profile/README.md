@@ -53,6 +53,14 @@ submitting bug fixes, or proposing new features, your contributions are welcome.
 
 Please check out our [contributing guide](https://github.com/pimcore/pimcore/blob/11.x/CONTRIBUTING.md)
 
+## What is the [Pimcore Enterprise Edition?](https://pimcore.com/en/platform/enterprise-edition)
+
+In addition to the open source edition of the Pimcore Platform, the Pimcore Enterprise Edition offers you the perfect solution
+for your business challenges – including our commercial licensing, extensive enterprise features, additional (long term) support and 
+services. Definitely the right approach for any organization that wants to get the most out of Pimcore! 
+Check out our [version offerings](https://pimcore.com/en/platform/enterprise-edition)
+
+
 ## Overview
 ![Technology and Architecture](/img/pimcore-technology-architecture.svg)
 
@@ -82,9 +90,11 @@ experience for editors.
 ### Data Objects
 ![Pimcore Admin Interface Screenshot PIM/MDM](/img/pimcore-screenshot-3.png)
 Manage any structured data based on a predefined data model, either manually or automatically via the APIs. Define the structure and attributes of your objects by using the class editor. Manage any data – products (PIM/MDM), categories, customers (CDP), orders (digital commerce), blog articles (DXP/CMS). Data Objects provide the possibility to manage structured data for multiple output channels from a single source. By centralizing data in one place, Pimcore's data objects enable you to achieve better data completeness and data quality, allowing you to create and maintain a consistent, up-to-date customer experience across multiple touchpoints in less time.
+
 ### Digital Assets
 ![Pimcore Admin Interface Screenshot DAM](/img/pimcore-screenshot-2.png)
 Assets are the DAM part of Pimcore. Store, manage and organize digital files such as images, videos, PDFs, Word/Excel documents in a folder structure. Preview 200+ file types directly in Pimcore, edit pictures, and enrich files with additional meta-data. Facial recognition for focal points in images is available. Editors only need to maintain one high-resolution version of a file in the system. Pimcore can automatically generate all required output formats for various channels such as commerce, apps, websites. Of course, including comprehensive user management and version control.
+
 ### Documents
 ![Pimcore Admin Interface Screenshot CMS](/img/pimcore-screenshot-1.png)
 The DXP/CMS part of Pimcore for managing unstructured content such as the pages of a website and its navigation. Based on Twig templates, documents render physical HTML/CSS pages and provide the capabilities to manage the presentation of data, exactly how customers will experience it. They can be composed by administrators by arranging predefined layout elements. Pimcore documents provide multilingual and multi-site capabilities for websites, including emails and newsletters. Total frontend flexibility enables a perfect blend of content and commerce. You can also use them to create content for offline channels, such as printed catalogs (web-to-print).
@@ -108,15 +118,15 @@ but we're also offering a demo package for your convenience - of course also wit
 [Click here for more installation options and a detailed guide](https://pimcore.com/docs/platform/Pimcore/Getting_Started/)
 
 
-## Supported Versions
+## Supported Versions and LTS
 
+Community support of a minor version of Pimcore packages ends with the release of the next minor version. After end of
+community support, long term supported is provided in combination with enterprise edition.
 
+LTS versions are based on our [Platform Version Releases](https://pimcore.com/docs/platform/Platform_Version/) which cover 
+the Core Framework as well as extensions provided by Pimcore. For details on versions and their support state see our 
+[documentation](https://pimcore.com/docs/platform/Platform_Version/Platform_Version_Releases/).
 
-## What is the [Pimcore Enterprise Edition?](https://pimcore.com/en/platform/enterprise-edition)
-
-Enterprise Edition allows for complete flexibility regarding customization, including managing it in your preferred infrastructure.
-Depending on your business challenges, we offer you the perfect solution – including our extensive enterprise features and support services. Definitely the right approach for any organization that wants to get the most out of Pimcore!
-Check out our [version offerings](https://pimcore.com/en/platform/enterprise-edition)
 
 ## Reporting Security Incidents
 
