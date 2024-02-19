@@ -7,7 +7,7 @@ Pimcore - Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM,
 
 <p align="center">
 
-[![Packagist](https://img.shields.io/packagist/v/pimcore/platform-version.svg)](https://packagist.org/packages/pimcore/pimcore)
+[![Packagist](https://img.shields.io/packagist/v/pimcore/platform-version.svg)](https://pimcore.com/docs/platform/Platform_Version/Platform_Version_Releases/)
 [![Software License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat)](https://github.com/pimcore/pimcore/blob/11.x/LICENSE.md)
 [![Software License](https://img.shields.io/badge/license-PCL-brightgreen.svg?style=flat)](https://github.com/pimcore/pimcore/blob/11.x/LICENSE.md)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-brightgreen.svg?style=flat)](https://gitter.im/pimcore/pimcore)
