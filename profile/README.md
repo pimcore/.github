@@ -1,14 +1,15 @@
 [![Pimcore Inspire 2024 - A Must-Attend Conference for Pimcore Developers!](/img/inspire-2024.png)](https://pimcore.com/en/resources/events/inspire-2024)
     
-    
-        
-    
-        
-    
-    
+
 ![Pimcore - Own the digital World](/img/logo-readme.svg)
 
 # Pimcore - Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce
+
+[![Packagist](https://img.shields.io/packagist/v/pimcore/platform-version.svg)](https://packagist.org/packages/pimcore/pimcore)
+[![Software License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat)](https://github.com/pimcore/pimcore/blob/11.x/LICENSE.md)
+[![Software License](https://img.shields.io/badge/license-PCL-brightgreen.svg?style=flat)](https://github.com/pimcore/pimcore/blob/11.x/LICENSE.md)
+[![Gitter](https://img.shields.io/badge/gitter-join%20chat-brightgreen.svg?style=flat)](https://gitter.im/pimcore/pimcore)
+
 
 <p align="center">
   <a href="https://pimcore.com/en/careers?utm_source=github&utm_medium=readme-pimcore-pimcore&utm_campaign=careers">We are hiring! 📢 Join us on our mission!</a>
@@ -29,7 +30,7 @@
   ·
   <a href="https://www.linkedin.com/company/pimcore">Follow on LinkedIn</a>
   ·
-  <a href="https://twitter.com/pimcore">Follow on Twitter</a>
+  <a href="https://x.com/pimcore">Follow on X</a>
   </p>
 
 ## Welcome to Pimcore
@@ -52,6 +53,6 @@ For security-related issues, please see our [security policy](https://github.com
 
 ## Copyright and License
 
-Copyright:  [Pimcore](https://www.pimcore.com/)  GmbH For licensing details please visit  [LICENSE.md](LICENSE.md)
+Copyright:  [Pimcore](https://www.pimcore.com/)  GmbH For licensing details please visit  [LICENSE.md](https://github.com/pimcore/pimcore/blob/11.x/LICENSE.md)
 
 ---
