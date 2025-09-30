@@ -1,6 +1,6 @@
 ![Pimcore - Own the digital World](/img/logo-readme.svg)
 
-Pimcore - Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce
+Pimcore - Open Core Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce
 
 <p align="center">
 
@@ -35,13 +35,13 @@ Pimcore - Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM,
 
 ## Welcome to Pimcore
 
-Pimcore is an innovative, free, and open-source platform for managing digital data and customer experiences. It provides 
+Pimcore is an innovative, free, and open core platform for managing digital data and customer experiences. It provides 
 an integrated solution for Product Information Management (PIM), Digital Asset Management (DAM), Customer Data Platform (CDP), 
 Master Data Management (MDM), DXP/CMS and eCommerce.
 
 ## Contributing to Pimcore
 
-As an open-source project, Pimcore thrives on community contributions. Whether you're improving documentation, 
+As an open core project, Pimcore thrives on community contributions. Whether you're improving documentation, 
 submitting bug fixes, or proposing new features, your contributions are welcome. Interested in contributing? 
 
 **Bug fixes:** please create a pull request in the affected repository including a step by step description to reproduce the problem  
