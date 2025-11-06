@@ -1,6 +1,6 @@
 ![Pimcore - Own the digital World](/img/logo-readme.svg)
 
-Pimcore - Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce
+Pimcore Core Framework - Open Core Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce
 
 <p align="center">
 
@@ -52,7 +52,7 @@ Please check out our [contributing guide](https://github.com/pimcore/pimcore/blo
 
 ## What is the [Pimcore Enterprise Edition?](https://pimcore.com/en/platform/enterprise-edition)
 
-In addition to the open source edition of the Pimcore Platform, the Pimcore Enterprise Edition offers you the perfect solution
+In addition to the community edition of the Pimcore Platform, the Pimcore Enterprise Edition offers you the perfect solution
 for your business challenges – including our commercial licensing, extensive enterprise features, additional (long term) support and 
 services. Definitely the right approach for any organization that wants to get the most out of Pimcore! 
 Check out our [version offerings](https://pimcore.com/en/platform/enterprise-edition)
