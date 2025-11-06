@@ -6,7 +6,6 @@ Pimcore Core Framework - Open Core Data & Experience Management Platform: PIM, M
 
 [![Packagist](https://img.shields.io/packagist/v/pimcore/platform-version.svg)](https://pimcore.com/docs/platform/Platform_Version/Platform_Version_Releases/)
 [![Software License](https://img.shields.io/badge/license-POCL-brightgreen.svg?style=flat)](https://github.com/pimcore/pimcore/blob/11.x/LICENSE.md)
-[![Gitter](https://img.shields.io/badge/gitter-join%20chat-brightgreen.svg?style=flat)](https://gitter.im/pimcore/pimcore)
 
 </p>
 
@@ -18,11 +17,9 @@ Pimcore Core Framework - Open Core Data & Experience Management Platform: PIM, M
   <a href="https://pimcore.com/docs/">📖 Documentation</a>
 </p>
 <p align="center">
-  <a href="https://pimcore.com/en/platform/enterprise-edition">🚀 Pimcore Enterprise edition</a>
+  <a href="https://pimcore.com/en/products/edition/overview">🚀 Pimcore Editions</a>
   ·
   <a href="https://github.com/pimcore/pimcore/discussions">🗨 Forums</a>
-  .
-  <a href="https://gitter.im/pimcore/pimcore">👪 Community Chat</a>
   </p>
   <p align="center">
   <a href="https://www.facebook.com/pimcore">👍 Like us on Facebook</a>
@@ -44,7 +41,7 @@ As an open-source project, Pimcore thrives on community contributions. Whether y
 submitting bug fixes, or proposing new features, your contributions are welcome. Interested in contributing? 
 
 **Bug fixes:** please create a pull request in the affected repository including a step by step description to reproduce the problem  
-**Contribute features:** contact the core-team via issue or on our [Gitter channel](https://gitter.im/pimcore/pimcore) before you start developing   
+**Contribute features:** contact the core-team via issue before you start developing   
 **Security vulnerabilities:** please see our [security policy](https://github.com/pimcore/pimcore/security/policy)
 
 Please check out our [contributing guide](https://github.com/pimcore/pimcore/blob/11.x/CONTRIBUTING.md)
