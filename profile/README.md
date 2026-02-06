@@ -1,4 +1,4 @@
-<img width="1890" height="500" alt="image" src="https://github.com/user-attachments/assets/4de18c3c-70ad-4d79-a7e8-f129e36aa286" />
+[<img width="1890" height="500" alt="image" src="https://github.com/user-attachments/assets/4de18c3c-70ad-4d79-a7e8-f129e36aa286" />](https://eu1.hubs.ly/H0qxJLc0)
 
 
 ![Pimcore - Own the digital World](/img/logo-readme.svg)
