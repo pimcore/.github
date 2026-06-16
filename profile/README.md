@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://pimcore.com/"><img src="doc/img/logo-readme.svg" alt="Pimcore" width="350"></a>
+  <a href="https://pimcore.com/"><img src="../img/logo-readme.svg" alt="Pimcore" width="350"></a>
 </p>
 
 <p align="center">
